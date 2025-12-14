@@ -42,7 +42,7 @@ More recently, I’ve been working on MLOps and Generative AI platforms—buildi
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/sriram-rajaram-087445123/]
-- 📧 Email: [your.email@example.com]
+- 📧 Email: [srajaram.devops@gmail.com]
 
 ---
 
